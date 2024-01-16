@@ -7,6 +7,9 @@ Responsive Design: The site is designed to look great on various devices, ensuri
 Interactive Elements: Leveraging JavaScript for interactive components to engage users and showcase projects dynamically.
 Easy to Customize: The codebase is structured to be easily customizable, allowing you to personalize it according to your preferences.
 
+# Pending Features
+* Responsive Design
+
 # Structure
 index.html: The main HTML file that structures the content of the portfolio.
 assets: The file containing the style, images and javascript
