@@ -9,6 +9,7 @@ Easy to Customize: The codebase is structured to be easily customizable, allowin
 
 # Pending Features
 * Responsive Design
+* Contact Us section functionality
 
 # Structure
 index.html: The main HTML file that structures the content of the portfolio.
